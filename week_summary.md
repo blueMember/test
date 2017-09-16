@@ -104,3 +104,4 @@ should be aware of noticing that more
     9. close to take action or use , identify the real worth for self and common make you know deeper.
     10. communicate with public platform such as blog,stackoverflow,github
     11. needs control horizontal expansion's topic such as 20 levels
+    12. pay should not No all the time. when you have some degree or solve the practical problem, you should consider the pay 
