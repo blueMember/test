@@ -43,6 +43,14 @@ should be aware of noticing that more
     2. control the progress of plan , and adapt the method of studying
 * reading:
     develop a habit to read by English one hour
+---
+@Tag: update at 2017-09-16
+* listen:
+  1. Within the whole target of 12, you must build phrased milestones to finish progressively . eg the time costs shorter.
+* reading:
+  force to read at least half hour 
+like a interest that will be long
+
 ### IT
 #### the day (background: leisure time at work)
 * see 4 to 6 new article about IT  at AM or in the spare time
