@@ -69,8 +69,15 @@ like a interest that will be long
 ---
 @Tag: update at 2017-09-09
 * the latest info:
-    1. latest info classified 3 kinds, including know , use case and take hand
-    2. the use cases and take hand should be also limited 2 to 4.  
+    1. latest info classified 3 kinds, including know , use case and take hand relation to work
+    2. the use cases and take hand should be also limited 2 to 4.
+---
+@Tag: update at 2017-09-16
+1. when finish python, do not learn other planning language for the moment , even though the time is not fit . you should learn js,ps,python in action until its worth reachs. keep 3 theory limit
+2. ai stays the same now, after changing work ,try other methods such as vedio at night.
+
+
+  
 #### the night
 
 @Tag: update at 2017-08-12
@@ -102,7 +109,7 @@ like a interest that will be long
     1. relaxation and study keeps balance, not too relax, not too nervous, require elasticity
     2. willing study is important, but knowing how to study is essential, but do not think too much about
     that , otherwise you will study nothing or fall in a dead loop.
-    3. not fall in a long endless period ,make specific goals and control the progress of task by weighting time and quantity such as 10 units ,which help to reach the goal
+    3. not fall in a long endless period ,make specific milestones for different stage and control the progress of task by weighting time and quantity such as 10 units and reduce the time progressly,which help to reach the goal
     4. one day or one week you have no gain about something in your plans, you should review and adjust.
     5. sometimes interrupting is allowed, but often or every day it is that, then you should review and adjust
     6. learn to use effective programming methods replacing the hand operation
@@ -113,3 +120,5 @@ like a interest that will be long
     10. communicate with public platform such as blog,stackoverflow,github
     11. needs control horizontal expansion's topic such as 20 levels
     12. pay should not No all the time. when you have some degree or solve the practical problem, you should consider the pay 
+    13. keep theory and action limited and balanced
+    14. try other learning methods such as vedio and communicate
